@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-Refactor code to meet accessibility standards
+Refactor code to meet accessibility and semantic standards
 
 ## Built With
 * HTML
